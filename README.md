@@ -41,12 +41,6 @@ You can extract and separate the CSS and JS into their own style.css and script.
 Replace Alex Rodriguez with your name and bio in the <h1> and About section.
 Update social links, projects, and contact details as needed.
 Add your own icons or images to enhance the visual appeal.
-🧠 Ideas to Extend
-
-Add a downloadable resume link
-Integrate with a backend contact form (e.g., Formspree)
-Add dark mode toggle
-Host on GitHub Pages or Netlify
 📜 License
 
 This project is open-source and free to use under the MIT License.
